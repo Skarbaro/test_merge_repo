@@ -1,0 +1,36 @@
+SonarQube plugins:
+  - Python Code Quality and Security 3.4.1.8066 (python)
+  - CSS Code Quality and Security 1.4.2.2002 (cssfamily)
+  - Go Code Quality and Security 1.8.3.2219 (go)
+  - JaCoCo 1.1.1.1157 (jacoco)
+  - Kotlin Code Quality and Security 1.8.3.2219 (kotlin)
+  - JavaScript/TypeScript Code Quality and Security 7.4.2.15501 (javascript)
+  - Ruby Code Quality and Security 1.8.3.2219 (ruby)
+  - Scala Code Quality and Security 1.8.3.2219 (sonarscala)
+  - C# Code Quality and Security 8.22.0.31243 (csharp)
+  - Java Code Quality and Security 6.15.1.26025 (java)
+  - HTML Code Quality and Security 3.4.0.2754 (web)
+  - Flex Code Quality and Security 2.6.1.2564 (flex)
+  - XML Code Quality and Security 2.2.0.2973 (xml)
+  - PHP Code Quality and Security 3.17.0.7439 (php)
+  - VB.NET Code Quality and Security 8.22.0.31243 (vbnet)
+Global server settings:
+  - sonar.core.id=3D6604EE-AXmjDtFohyg1Vgx5X9lH
+  - sonar.core.startTime=2021-06-08T06:36:19+0000
+  - sonar.forceAuthentication=true
+Project server settings:
+Project scanner properties:
+  - sonar.exclusions=**/*jquery.js,**/*bundle.js,**/internal_build
+  - sonar.host.url=http://185.78.235.69:9000
+  - sonar.java.binaries=internal_build
+  - sonar.login=******
+  - sonar.password=******
+  - sonar.projectBaseDir=E:\GitHub_repo\test_merge_repo
+  - sonar.projectKey=test_merge_repo:grab
+  - sonar.projectName=test_merge_repo
+  - sonar.projectVersion=1.0
+  - sonar.scanner.app=ScannerCLI
+  - sonar.scanner.appVersion=4.6.2.2472
+  - sonar.sourceEncoding=windows-1251
+  - sonar.sources=E:\GitHub_repo\test_merge_repo
+  - sonar.working.directory=E:\GitHub_repo\test_merge_repo\.scannerwork
